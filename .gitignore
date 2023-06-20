@@ -1,7 +1,11 @@
 ### Kyle Yannelli ###
+
+# Ignore environment file
+#   Note: I could support env vars, but they can be messy and are not persistent
 /.env
 .env
-
+# Ignore output of make
+KMusicPP
 
 
 

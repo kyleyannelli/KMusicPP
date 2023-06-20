@@ -3,4 +3,4 @@ project(KMusicPP)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(KMusicPP main.cpp env_loader.cpp env_loader.h)
+add_executable(KMusicPP src/main.cpp src/env_loader.cpp src/env_loader.h)
