@@ -1,0 +1,9 @@
+{
+  "name" : "kmusicpp",
+  "version-string" : "1.0.0",
+  "builtin-baseline" : "223b8d5695bd0615e1eeba393c64770f6faf20e7",
+  "dependencies" : [ {
+    "name" : "dpp",
+    "version>=" : "10.0.24"
+  } ]
+}
